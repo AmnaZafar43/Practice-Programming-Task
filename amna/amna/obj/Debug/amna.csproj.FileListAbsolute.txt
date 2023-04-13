@@ -1,0 +1,7 @@
+E:\practice\amna\amna\bin\Debug\amna.exe.config
+E:\practice\amna\amna\bin\Debug\amna.exe
+E:\practice\amna\amna\bin\Debug\amna.pdb
+E:\practice\amna\amna\obj\Debug\amna.csprojAssemblyReference.cache
+E:\practice\amna\amna\obj\Debug\amna.csproj.CoreCompileInputs.cache
+E:\practice\amna\amna\obj\Debug\amna.exe
+E:\practice\amna\amna\obj\Debug\amna.pdb

@@ -1,0 +1,8 @@
+E:\practice\dynamic_poly\t1\t1\bin\Debug\t1.exe.config
+E:\practice\dynamic_poly\t1\t1\bin\Debug\t1.exe
+E:\practice\dynamic_poly\t1\t1\bin\Debug\t1.pdb
+E:\practice\dynamic_poly\t1\t1\obj\Debug\t1.csproj.AssemblyReference.cache
+E:\practice\dynamic_poly\t1\t1\obj\Debug\t1.csproj.SuggestedBindingRedirects.cache
+E:\practice\dynamic_poly\t1\t1\obj\Debug\t1.csproj.CoreCompileInputs.cache
+E:\practice\dynamic_poly\t1\t1\obj\Debug\t1.exe
+E:\practice\dynamic_poly\t1\t1\obj\Debug\t1.pdb

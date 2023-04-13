@@ -1,0 +1,8 @@
+E:\practice\task\task\bin\Debug\task.exe.config
+E:\practice\task\task\bin\Debug\task.exe
+E:\practice\task\task\bin\Debug\task.pdb
+E:\practice\task\task\obj\Debug\task.csproj.AssemblyReference.cache
+E:\practice\task\task\obj\Debug\task.csproj.SuggestedBindingRedirects.cache
+E:\practice\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+E:\practice\task\task\obj\Debug\task.exe
+E:\practice\task\task\obj\Debug\task.pdb

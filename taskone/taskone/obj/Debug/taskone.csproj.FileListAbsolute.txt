@@ -1,0 +1,7 @@
+E:\practice\taskone\taskone\bin\Debug\taskone.exe.config
+E:\practice\taskone\taskone\bin\Debug\taskone.exe
+E:\practice\taskone\taskone\bin\Debug\taskone.pdb
+E:\practice\taskone\taskone\obj\Debug\taskone.csprojAssemblyReference.cache
+E:\practice\taskone\taskone\obj\Debug\taskone.csproj.CoreCompileInputs.cache
+E:\practice\taskone\taskone\obj\Debug\taskone.exe
+E:\practice\taskone\taskone\obj\Debug\taskone.pdb

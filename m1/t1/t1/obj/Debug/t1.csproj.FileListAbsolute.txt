@@ -1,0 +1,8 @@
+E:\practice\m1\t1\t1\bin\Debug\t1.exe.config
+E:\practice\m1\t1\t1\bin\Debug\t1.exe
+E:\practice\m1\t1\t1\bin\Debug\t1.pdb
+E:\practice\m1\t1\t1\obj\Debug\t1.csproj.AssemblyReference.cache
+E:\practice\m1\t1\t1\obj\Debug\t1.csproj.SuggestedBindingRedirects.cache
+E:\practice\m1\t1\t1\obj\Debug\t1.csproj.CoreCompileInputs.cache
+E:\practice\m1\t1\t1\obj\Debug\t1.exe
+E:\practice\m1\t1\t1\obj\Debug\t1.pdb

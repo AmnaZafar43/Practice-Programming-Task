@@ -1,0 +1,10 @@
+E:\practice\task-1\task-1\bin\Debug\task-1.exe.config
+E:\practice\task-1\task-1\bin\Debug\task-1.exe
+E:\practice\task-1\task-1\bin\Debug\task-1.pdb
+E:\practice\task-1\task-1\obj\Debug\task-1.csprojAssemblyReference.cache
+E:\practice\task-1\task-1\obj\Debug\task_1.Form1.resources
+E:\practice\task-1\task-1\obj\Debug\task_1.Properties.Resources.resources
+E:\practice\task-1\task-1\obj\Debug\task-1.csproj.GenerateResource.cache
+E:\practice\task-1\task-1\obj\Debug\task-1.csproj.CoreCompileInputs.cache
+E:\practice\task-1\task-1\obj\Debug\task-1.exe
+E:\practice\task-1\task-1\obj\Debug\task-1.pdb

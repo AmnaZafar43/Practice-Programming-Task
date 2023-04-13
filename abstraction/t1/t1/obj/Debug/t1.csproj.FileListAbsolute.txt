@@ -1,0 +1,8 @@
+E:\practice\abstraction\t1\t1\bin\Debug\t1.exe.config
+E:\practice\abstraction\t1\t1\bin\Debug\t1.exe
+E:\practice\abstraction\t1\t1\bin\Debug\t1.pdb
+E:\practice\abstraction\t1\t1\obj\Debug\t1.csproj.AssemblyReference.cache
+E:\practice\abstraction\t1\t1\obj\Debug\t1.csproj.SuggestedBindingRedirects.cache
+E:\practice\abstraction\t1\t1\obj\Debug\t1.csproj.CoreCompileInputs.cache
+E:\practice\abstraction\t1\t1\obj\Debug\t1.exe
+E:\practice\abstraction\t1\t1\obj\Debug\t1.pdb

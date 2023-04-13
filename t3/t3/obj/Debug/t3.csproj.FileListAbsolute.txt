@@ -1,0 +1,7 @@
+E:\practice\t3\t3\bin\Debug\t3.exe.config
+E:\practice\t3\t3\bin\Debug\t3.exe
+E:\practice\t3\t3\bin\Debug\t3.pdb
+E:\practice\t3\t3\obj\Debug\t3.csprojAssemblyReference.cache
+E:\practice\t3\t3\obj\Debug\t3.csproj.CoreCompileInputs.cache
+E:\practice\t3\t3\obj\Debug\t3.exe
+E:\practice\t3\t3\obj\Debug\t3.pdb

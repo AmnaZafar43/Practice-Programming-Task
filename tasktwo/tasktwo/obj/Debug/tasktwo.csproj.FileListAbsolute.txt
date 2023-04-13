@@ -1,0 +1,7 @@
+E:\practice\tasktwo\tasktwo\bin\Debug\tasktwo.exe.config
+E:\practice\tasktwo\tasktwo\bin\Debug\tasktwo.exe
+E:\practice\tasktwo\tasktwo\bin\Debug\tasktwo.pdb
+E:\practice\tasktwo\tasktwo\obj\Debug\tasktwo.csprojAssemblyReference.cache
+E:\practice\tasktwo\tasktwo\obj\Debug\tasktwo.csproj.CoreCompileInputs.cache
+E:\practice\tasktwo\tasktwo\obj\Debug\tasktwo.exe
+E:\practice\tasktwo\tasktwo\obj\Debug\tasktwo.pdb

@@ -1,0 +1,8 @@
+E:\practice\extendFunctionality\extendFunctionality\bin\Debug\extendFunctionality.exe.config
+E:\practice\extendFunctionality\extendFunctionality\bin\Debug\extendFunctionality.exe
+E:\practice\extendFunctionality\extendFunctionality\bin\Debug\extendFunctionality.pdb
+E:\practice\extendFunctionality\extendFunctionality\obj\Debug\extendFunctionality.csproj.AssemblyReference.cache
+E:\practice\extendFunctionality\extendFunctionality\obj\Debug\extendFunctionality.csproj.SuggestedBindingRedirects.cache
+E:\practice\extendFunctionality\extendFunctionality\obj\Debug\extendFunctionality.csproj.CoreCompileInputs.cache
+E:\practice\extendFunctionality\extendFunctionality\obj\Debug\extendFunctionality.exe
+E:\practice\extendFunctionality\extendFunctionality\obj\Debug\extendFunctionality.pdb
